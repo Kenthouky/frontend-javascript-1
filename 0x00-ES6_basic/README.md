@@ -78,4 +78,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **oliver Samuel** - [Gzoref](https://github.com/tecnophille)
+* **oliver Samuel** - [Oliver Samuel](https://github.com/tecnophille)
